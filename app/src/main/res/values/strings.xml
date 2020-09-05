@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Room Database</string>
+
+    <string name="add_user">Add User</string>
+    <string name="all_user">All Users</string>
+    <string name="clear_all">Clear All</string>
+    <string name="item_name_hint">User Name</string>
+    <string name="item_amount_hint">User Number</string>
+    <string name="item_instructions_hint">Other</string>
+    <string name="no_result">Nothing to show</string>
+    <string name="list_item_name"><b>Item Name:</b> %1$s</string>
+    <string name="list_item_amount"><b>Amount:</b> %1$d</string>
+    <string name="list_item_instructions"><b>Extra Instructions:</b> %1$s</string>
+</resources>
